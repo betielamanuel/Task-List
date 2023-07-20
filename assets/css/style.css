@@ -1,0 +1,43 @@
+/*Global styles*/
+
+*{
+    font-family: monospace;
+    max-height: auto;
+    font-weight:bold;
+    font-size: large;
+}
+
+body {
+    background-color: #f5f5f5;
+    min-height: 70px;
+    margin: 20px;
+    
+}
+
+/* Header styles */
+header {
+    margin-top: 10px;
+    border-bottom: 2px solid #ccc;
+    display: flex;
+    justify-content: center;
+}
+
+/*Form Styles*/
+form {
+    border-right: 2px solid #ccc;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+/* Input, textarea and right-section background color*/
+.form-control {
+    background-color: #eee !important;
+    border: 1.5px solid #ccc;
+}
+
+/* Footer styles */
+footer {
+    border-top: 2px solid #ccc;
+    padding: 5px 0;
+    margin-top: 5px;
+}
