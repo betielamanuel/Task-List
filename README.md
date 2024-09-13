@@ -16,7 +16,6 @@ The Task Manager is a web application built using HTML, CSS, Bootstrap, React, a
 - **HTML**: Structure of the web pages.
 - **CSS**: Styling of the web pages, with a focus on responsiveness and layout.
 - **Bootstrap**: For responsive design and component styling.
-- **React**: Frontend library for building user interfaces (if applicable in future updates).
 - **JavaScript**: For task management logic and form validation.
 
 ## Setup
