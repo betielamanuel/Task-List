@@ -62,10 +62,7 @@ The Task Manager is a web application built using HTML, CSS, Bootstrap, React, a
 - **Backend Integration**: Implement a backend service for persistent task storage.
 - **Advanced Features**: Add user authentication, notifications, and more detailed task management.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact betiel.ab@gmail.com
